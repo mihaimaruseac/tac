@@ -135,7 +135,7 @@ This also got linked with
 ### The Secure Agentic Framework project
 
 The Secure Agentic Framework project got its new name and rebranding (from the
-formerly known SAFE-MCP). It ha expansions as "SAF for MCP" and "SAF for
+formerly known SAFE-MCP). It has expansions as "SAF for MCP" and "SAF for
 Kubernetes".
 
 The goal of the project is to combat shadow AI, make sure that all MCP servers
